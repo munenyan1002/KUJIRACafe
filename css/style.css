@@ -178,6 +178,7 @@ input[type="submit"]{
   /*menu.html-横並び解除-*/
   .menu-item {
     display: block;
+
   }
   .menu-photo {
     margin-right: 0;
@@ -185,5 +186,9 @@ input[type="submit"]{
   }
   .menu-text {
     width: 100%;
+  }
+  /*about.html-shop-photoの右パディングをなくす-*/
+  .shop-photo {
+    padding-right: 0;
   }
 }
