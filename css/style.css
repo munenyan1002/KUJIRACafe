@@ -191,4 +191,19 @@ input[type="submit"]{
   .shop-photo {
     padding-right: 0;
   }
+  /*contact.html-フォーム-*/
+  select {
+    width: 100%;
+  }
+  input[name="subject"] {
+    width: 100%;
+  }
+  textarea {
+    width: 100%;
+  }
+  input[type="submit"] {
+    margin: 20px 0;
+    width: 100%;
+  }
+  
 }
